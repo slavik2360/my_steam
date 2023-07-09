@@ -1,0 +1,36 @@
+section {
+    padding: 20px;
+  }
+  
+.game {
+    display: inline-block;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+}
+  
+.game img {
+    width: 100%;
+    height: auto;
+}
+  
+  
+  
+  /* a {
+    color: #0078d7;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:visited {
+    color: #663399;
+  } */
+  
+@media (max-width: 768px) {
+    .game {
+      width: 100%;
+    }
+}
